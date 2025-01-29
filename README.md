@@ -1,4 +1,4 @@
-# Materials, data and codes of the paper "Computational bases of action anticipation superiority in experts: Identifying and mapping kinematic invariants"
+# Materials, data and codes of the paper "Computational bases of action anticipation superiority in experts: kinematic invariants mapping"
 
 We analysis data under the kinematic coding framework (Scaliti et al., 2023). 
 
